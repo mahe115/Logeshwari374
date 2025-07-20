@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/logeshwari-gnana-prakash-7a52a526/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendran-b-95333521a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/logeshwari-prakash-7a52a526/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahendran-b-95333521a" height="30" width="40" /></a>
 <a href="https://kaggle.com/logeshwari21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mahendran321" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/logeshwari34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="logeshwari" height="30" width="40" /></a>
 </p>
